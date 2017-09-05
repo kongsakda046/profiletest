@@ -1,22 +1,32 @@
 body {
     padding: 30px 100px;
     font-family: 'Prompt', sans-serif;
-    background-color: lightskyblue;
+    background-color: #634A0F;
 }
 h1{
     font-family: 'Trirong', serif;
+    color: red;
 
 }
-้้h2{
-    font-family: 'Trirong', serif;    
+
+h2{
+    font-family: 'Sriracha', cursive;
+    color: royalblue;
 
 }
+h3{
+    font-family: 'Sriracha', cursive;
+    color: blueviolet;
+
+}
+
 
 .img-circle {
     border-radius: 50%;
     width: 200px;
     margin: auto;
 }
+
 
 .content {
     text-align: center;
