@@ -4,13 +4,14 @@ body {
     background-color: lightskyblue;
 }
 h1{
-    font-family: 'Prompt', sans-serif;
-
-}
-้้h3{
     font-family: 'Trirong', serif;
 
 }
+้้h2{
+    font-family: 'Trirong', serif;    
+
+}
+
 .img-circle {
     border-radius: 50%;
     width: 200px;
