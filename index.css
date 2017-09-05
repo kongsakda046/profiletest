@@ -62,3 +62,15 @@ h3{
 .fa {
     margin: 10px;
 }
+
+
+
+
+
+
+/*เพิ่มรูป*/
+.img-dead {
+    border-radius: 70%;
+    width: 200px;
+    margin: auto;
+}
